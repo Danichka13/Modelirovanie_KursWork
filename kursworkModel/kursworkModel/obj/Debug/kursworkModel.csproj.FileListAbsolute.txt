@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\bin\Debug\kursworkModel.exe.config
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\bin\Debug\kursworkModel.exe
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\bin\Debug\kursworkModel.pdb
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\obj\Debug\kursworkModel.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\obj\Debug\kursworkModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\obj\Debug\kursworkModel.Form1.resources
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\obj\Debug\kursworkModel.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\obj\Debug\kursworkModel.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\obj\Debug\kursworkModel.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\obj\Debug\kursworkModel.exe
+C:\Users\Пользователь\source\repos\kursworkModel\kursworkModel\obj\Debug\kursworkModel.pdb
